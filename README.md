@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning data science using SQL and Python...
 - 💞️ I’m looking to collaborate on other programming languages to better my skills...
 - 📫 How to reach me.. email@enemaridavido@outlook.com, IG@Enemaridavido, blog@Enemaridavido...
-
-<!---
+Experienced Science Teacher with a demonstrated history of Laboratory practice, Planning management, Human resource management, Projects management, Capacity building, Quality assurance and Quality control. Always eager to keep results accurate, time and resources not wasted, and working environment dynamic enough for innovative outcomes. Constantly considering problems, opportunities, and situations via merit of the eagle eye and the big-picture concept. In addition to the outstanding skills in keeping cross-functional teams aligned and integrated.  I am fully involved in Agricultural Practices such as Crops and Animals Production, Agricultural Business, Foods and Beverages Processing, Training, Consultancy, etc.
 Meekychild/Meekychild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
